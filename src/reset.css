@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=ADLaM+Display&display=swap');
+
+:root {
+  --background-color: #fff;
+  --font-color: #556170;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+
+body {background: var(--background-color)}
+a {color: #000}
+
+
